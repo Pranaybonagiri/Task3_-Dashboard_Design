@@ -1,0 +1,151 @@
+Order ID,Order Date,Region,Category,Product Name,Sales,Profit,Quantity,Customer Name
+O-1001,2023-01-17,East,Furniture,Cupboard,1162.5,288.21,2,Ravi Kumar
+O-1002,2023-02-04,East,Furniture,Bookshelf,1336.98,118.97,3,Arjun Mehta
+O-1003,2023-05-28,South,Clothing,Jeans,1518.64,193.7,3,Nisha Gupta
+O-1004,2023-01-06,West,Stationery,Pen Set,719.36,110.32,4,Karan Patel
+O-1005,2023-07-30,North,Furniture,Bookshelf,1240.53,150.28,1,Nisha Gupta
+O-1006,2023-08-14,North,Furniture,Sofa,243.7,16.47,5,Nisha Gupta
+O-1007,2023-10-22,South,Furniture,Bookshelf,1456.86,213.24,5,Rohit Verma
+O-1008,2023-04-01,East,Clothing,Formal Shirt,729.19,153.71,1,Karan Patel
+O-1009,2023-02-11,North,Electronics,Headphones,468.85,102.12,3,Sneha Reddy
+O-1010,2023-01-01,South,Clothing,Formal Shirt,1670.34,295.18,2,Vikram Rao
+O-1011,2023-10-04,North,Furniture,Bookshelf,1021.94,124.33,3,Arjun Mehta
+O-1012,2023-12-07,West,Furniture,Sofa,1337.96,315.22,3,Rohit Verma
+O-1013,2023-12-02,West,Electronics,Laptop,1526.68,350.9,3,Karan Patel
+O-1014,2023-06-02,South,Furniture,Bookshelf,1200.97,295.51,2,Rohit Verma
+O-1015,2023-01-03,East,Furniture,Cupboard,890.38,200.3,1,Nisha Gupta
+O-1016,2023-06-28,South,Furniture,Cupboard,301.07,35.96,1,Karan Patel
+O-1017,2023-04-12,West,Clothing,Kurta,1689.31,213.08,5,Rohit Verma
+O-1018,2023-03-10,West,Furniture,Table,350.57,70.62,2,Karan Patel
+O-1019,2023-09-26,East,Clothing,Formal Shirt,353.92,43.97,2,Vikram Rao
+O-1020,2023-01-05,West,Stationery,Pen Set,356.79,27.9,4,Karan Patel
+O-1021,2023-03-02,North,Clothing,Denim Jacket,1570.46,265.28,5,Priya Sharma
+O-1022,2023-01-03,North,Clothing,Formal Shirt,749.13,72.69,3,Vikram Rao
+O-1023,2023-10-15,West,Stationery,Notebook,1858.43,414.07,2,Divya Menon
+O-1024,2023-11-14,East,Stationery,Diary,1789.68,215.72,4,Arjun Mehta
+O-1025,2023-10-07,North,Stationery,Diary,77.76,16.29,5,Divya Menon
+O-1026,2023-01-18,West,Furniture,Office Chair,54.85,3.4,5,Arjun Mehta
+O-1027,2023-09-30,North,Clothing,Jeans,1879.55,211.89,4,Rohit Verma
+O-1028,2023-12-15,South,Clothing,Denim Jacket,236.45,23.09,2,Sneha Reddy
+O-1029,2023-12-16,East,Electronics,Headphones,693.69,117.24,1,Divya Menon
+O-1030,2023-07-08,North,Clothing,Denim Jacket,1282.73,279.71,4,Divya Menon
+O-1031,2023-02-12,East,Stationery,Markers,739.58,98.43,5,Rohit Verma
+O-1032,2023-01-25,South,Electronics,Smartphone,644.33,127.07,3,Divya Menon
+O-1033,2023-02-27,North,Furniture,Table,1071.75,171.84,4,Aditi Singh
+O-1034,2023-11-03,East,Clothing,T-Shirt,175.13,27.4,2,Nisha Gupta
+O-1035,2023-01-16,South,Electronics,Bluetooth Speaker,604.11,103.42,1,Rohit Verma
+O-1036,2023-01-23,North,Furniture,Table,1926.61,120.69,2,Rohit Verma
+O-1037,2023-12-18,North,Electronics,Bluetooth Speaker,1555.48,278.56,3,Arjun Mehta
+O-1038,2023-09-17,South,Clothing,Formal Shirt,1410.22,259.68,3,Ravi Kumar
+O-1039,2023-05-21,South,Electronics,Smartphone,1711.06,232.21,3,Arjun Mehta
+O-1040,2023-08-04,South,Stationery,Markers,1514.15,274.24,2,Ravi Kumar
+O-1041,2023-08-17,South,Furniture,Office Chair,1045.5,245.77,3,Ravi Kumar
+O-1042,2023-09-05,East,Furniture,Table,1561.42,268.83,4,Sneha Reddy
+O-1043,2023-11-21,West,Clothing,Kurta,761.87,133.32,3,Vikram Rao
+O-1044,2023-01-22,West,Electronics,Bluetooth Speaker,1699.49,317.38,3,Arjun Mehta
+O-1045,2023-09-17,North,Furniture,Cupboard,733.25,111.78,1,Aditi Singh
+O-1046,2023-07-12,North,Stationery,Diary,662.22,96.04,1,Karan Patel
+O-1047,2023-02-16,East,Stationery,Calculator,1236.81,167.44,1,Arjun Mehta
+O-1048,2023-06-05,East,Furniture,Office Chair,1398.56,321.56,2,Nisha Gupta
+O-1049,2023-01-03,East,Stationery,Pen Set,1448.8,179.18,3,Sneha Reddy
+O-1050,2023-12-13,West,Electronics,Smartphone,1515.65,141.85,4,Arjun Mehta
+O-1051,2023-07-15,East,Stationery,Diary,1816.86,231.32,5,Nisha Gupta
+O-1052,2023-02-08,North,Furniture,Bookshelf,185.44,21.77,5,Priya Sharma
+O-1053,2023-09-25,West,Stationery,Markers,534.83,81.55,2,Vikram Rao
+O-1054,2023-08-13,North,Clothing,Formal Shirt,378.03,58.52,1,Divya Menon
+O-1055,2023-06-13,North,Furniture,Office Chair,66.84,9.31,4,Arjun Mehta
+O-1056,2023-09-19,North,Furniture,Cupboard,968.9,79.98,1,Priya Sharma
+O-1057,2023-07-02,West,Furniture,Office Chair,707.05,94.33,4,Aditi Singh
+O-1058,2023-05-16,West,Furniture,Sofa,471.44,102.64,1,Vikram Rao
+O-1059,2023-04-06,East,Clothing,Formal Shirt,358.59,34.34,5,Rohit Verma
+O-1060,2023-10-27,North,Stationery,Markers,809.41,133.93,1,Aditi Singh
+O-1061,2023-07-17,West,Stationery,Pen Set,859.29,47.91,2,Arjun Mehta
+O-1062,2023-08-23,South,Stationery,Calculator,616.23,100.18,1,Priya Sharma
+O-1063,2023-09-30,East,Clothing,Formal Shirt,289.37,64.81,4,Karan Patel
+O-1064,2023-01-11,North,Clothing,T-Shirt,1433.54,300.8,1,Aditi Singh
+O-1065,2023-03-03,East,Furniture,Bookshelf,56.99,9.95,1,Sneha Reddy
+O-1066,2023-12-20,East,Clothing,Kurta,1680.69,161.93,1,Nisha Gupta
+O-1067,2023-02-09,North,Furniture,Bookshelf,1536.05,108.0,3,Vikram Rao
+O-1068,2023-04-18,West,Furniture,Table,969.7,176.62,5,Priya Sharma
+O-1069,2023-09-22,South,Stationery,Pen Set,1910.62,128.45,1,Sneha Reddy
+O-1070,2023-07-02,South,Electronics,Laptop,1316.02,299.78,3,Divya Menon
+O-1071,2023-01-12,West,Clothing,Kurta,1645.24,89.52,4,Karan Patel
+O-1072,2023-01-13,South,Electronics,Bluetooth Speaker,1166.52,214.01,4,Arjun Mehta
+O-1073,2023-05-16,East,Furniture,Cupboard,1528.3,224.09,2,Vikram Rao
+O-1074,2023-06-20,West,Clothing,T-Shirt,1925.72,404.28,3,Nisha Gupta
+O-1075,2023-08-16,East,Electronics,Headphones,1661.32,378.18,2,Nisha Gupta
+O-1076,2023-03-30,West,Furniture,Office Chair,500.09,101.96,4,Divya Menon
+O-1077,2023-08-12,West,Furniture,Bookshelf,99.7,19.3,2,Ravi Kumar
+O-1078,2023-12-25,East,Furniture,Office Chair,225.94,19.38,1,Priya Sharma
+O-1079,2023-12-18,East,Electronics,Smartphone,401.08,58.7,5,Sneha Reddy
+O-1080,2023-06-23,East,Electronics,Bluetooth Speaker,59.27,12.93,5,Rohit Verma
+O-1081,2023-02-22,North,Clothing,Kurta,484.66,39.57,3,Arjun Mehta
+O-1082,2023-02-28,North,Electronics,Smartwatch,451.82,81.15,4,Ravi Kumar
+O-1083,2023-11-24,South,Furniture,Bookshelf,1762.3,409.81,3,Nisha Gupta
+O-1084,2023-04-23,West,Electronics,Laptop,1250.35,231.5,4,Priya Sharma
+O-1085,2023-10-22,South,Stationery,Markers,1341.6,228.87,1,Divya Menon
+O-1086,2023-03-18,South,Clothing,Kurta,1077.43,165.22,1,Karan Patel
+O-1087,2023-12-21,South,Furniture,Sofa,760.66,137.8,3,Sneha Reddy
+O-1088,2023-03-25,West,Electronics,Smartphone,1439.91,222.57,3,Divya Menon
+O-1089,2023-08-13,West,Clothing,T-Shirt,1933.38,360.58,4,Ravi Kumar
+O-1090,2023-04-26,South,Clothing,Formal Shirt,193.0,29.64,3,Nisha Gupta
+O-1091,2023-08-23,North,Stationery,Calculator,860.46,56.46,1,Priya Sharma
+O-1092,2023-06-18,West,Clothing,T-Shirt,918.02,132.65,5,Nisha Gupta
+O-1093,2023-09-20,East,Furniture,Table,1226.71,212.55,2,Nisha Gupta
+O-1094,2023-01-17,East,Electronics,Smartwatch,517.28,40.6,1,Arjun Mehta
+O-1095,2023-09-22,South,Clothing,Kurta,844.78,139.91,2,Priya Sharma
+O-1096,2023-04-22,West,Furniture,Office Chair,1680.88,286.3,2,Rohit Verma
+O-1097,2023-11-04,West,Stationery,Pen Set,352.66,48.73,3,Rohit Verma
+O-1098,2023-07-09,South,Clothing,Formal Shirt,1551.79,83.17,4,Karan Patel
+O-1099,2023-02-20,South,Clothing,Jeans,1988.79,188.4,4,Karan Patel
+O-1100,2023-06-14,North,Stationery,Markers,1194.69,171.15,4,Nisha Gupta
+O-1101,2023-04-19,North,Stationery,Diary,989.4,239.75,4,Rohit Verma
+O-1102,2023-01-22,East,Electronics,Smartwatch,493.13,37.24,2,Divya Menon
+O-1103,2023-09-14,North,Stationery,Calculator,564.04,38.1,4,Sneha Reddy
+O-1104,2023-11-09,North,Electronics,Laptop,1369.86,245.21,5,Priya Sharma
+O-1105,2023-12-23,East,Electronics,Headphones,424.0,54.55,5,Aditi Singh
+O-1106,2023-09-18,West,Clothing,T-Shirt,205.95,44.28,3,Nisha Gupta
+O-1107,2023-11-13,East,Furniture,Bookshelf,836.55,95.9,1,Divya Menon
+O-1108,2023-06-11,North,Furniture,Office Chair,1879.8,367.06,4,Ravi Kumar
+O-1109,2023-07-25,West,Clothing,Kurta,206.48,46.7,5,Sneha Reddy
+O-1110,2023-08-02,West,Furniture,Sofa,383.31,27.74,3,Sneha Reddy
+O-1111,2023-03-03,West,Furniture,Bookshelf,570.23,139.89,2,Ravi Kumar
+O-1112,2023-12-23,South,Furniture,Cupboard,1675.67,252.38,2,Vikram Rao
+O-1113,2023-02-27,East,Clothing,Kurta,195.19,46.4,4,Arjun Mehta
+O-1114,2023-05-14,West,Electronics,Bluetooth Speaker,91.64,19.48,4,Ravi Kumar
+O-1115,2023-02-24,East,Clothing,Formal Shirt,490.5,99.61,5,Priya Sharma
+O-1116,2023-03-19,West,Electronics,Bluetooth Speaker,1128.95,130.58,2,Priya Sharma
+O-1117,2023-01-28,West,Furniture,Sofa,340.14,29.56,5,Arjun Mehta
+O-1118,2023-09-06,West,Electronics,Bluetooth Speaker,1223.83,139.55,2,Sneha Reddy
+O-1119,2023-02-13,South,Clothing,Denim Jacket,1653.3,341.67,2,Divya Menon
+O-1120,2023-06-18,West,Clothing,Formal Shirt,689.08,73.06,1,Karan Patel
+O-1121,2023-06-28,North,Stationery,Calculator,312.91,59.02,4,Nisha Gupta
+O-1122,2023-11-24,East,Furniture,Cupboard,1369.9,103.19,4,Ravi Kumar
+O-1123,2023-11-09,North,Electronics,Laptop,1409.27,193.26,1,Nisha Gupta
+O-1124,2023-10-30,East,Furniture,Sofa,385.29,41.78,5,Aditi Singh
+O-1125,2023-01-15,South,Electronics,Headphones,927.56,131.9,4,Rohit Verma
+O-1126,2023-08-09,East,Furniture,Table,1466.93,198.98,5,Aditi Singh
+O-1127,2023-01-14,South,Clothing,T-Shirt,686.68,77.77,1,Vikram Rao
+O-1128,2023-02-04,West,Stationery,Calculator,1557.76,222.33,5,Divya Menon
+O-1129,2023-10-10,North,Clothing,Kurta,152.85,13.55,4,Divya Menon
+O-1130,2023-01-06,North,Clothing,Jeans,69.99,11.07,1,Rohit Verma
+O-1131,2023-09-21,South,Electronics,Bluetooth Speaker,1810.53,261.08,3,Arjun Mehta
+O-1132,2023-09-06,East,Electronics,Smartphone,1701.8,188.32,4,Nisha Gupta
+O-1133,2023-10-18,West,Clothing,Jeans,1061.36,178.4,2,Rohit Verma
+O-1134,2023-06-19,East,Electronics,Smartwatch,1335.8,296.21,2,Karan Patel
+O-1135,2023-06-17,South,Clothing,Formal Shirt,1873.49,327.97,5,Karan Patel
+O-1136,2023-06-22,West,Furniture,Table,1160.27,279.67,2,Divya Menon
+O-1137,2023-07-15,South,Stationery,Notebook,683.17,93.36,2,Vikram Rao
+O-1138,2023-02-02,East,Stationery,Pen Set,1154.64,284.49,5,Ravi Kumar
+O-1139,2023-05-15,North,Clothing,Jeans,1373.37,141.24,4,Aditi Singh
+O-1140,2023-01-30,East,Clothing,Jeans,1930.35,203.88,1,Aditi Singh
+O-1141,2023-01-08,South,Clothing,Jeans,1986.03,209.3,1,Karan Patel
+O-1142,2023-02-20,East,Clothing,Jeans,665.88,93.01,2,Aditi Singh
+O-1143,2023-07-14,North,Stationery,Calculator,710.69,91.55,5,Sneha Reddy
+O-1144,2023-04-27,West,Furniture,Sofa,1131.59,110.64,3,Divya Menon
+O-1145,2023-08-26,East,Clothing,Denim Jacket,1586.82,343.98,2,Priya Sharma
+O-1146,2023-04-03,West,Furniture,Cupboard,173.0,10.83,1,Divya Menon
+O-1147,2023-03-12,West,Stationery,Markers,780.54,193.34,4,Aditi Singh
+O-1148,2023-06-19,South,Stationery,Diary,1381.94,265.2,4,Sneha Reddy
+O-1149,2023-03-06,North,Electronics,Headphones,596.37,47.4,1,Nisha Gupta
+O-1150,2023-10-04,South,Clothing,T-Shirt,1607.85,325.67,1,Rohit Verma
